@@ -38,3 +38,4 @@ Please also answers the following problems:
 1. How would you modify your project to handle horizontal scaling in such way we do not keep multiple copies of satellites data ?
 2. Imagine we do not track a dozen of satellites, but a million ? How would you change your project to handle it ?
 3. What metrics should be produced by your software ? What would they be useful for ? Propose an implementation using Prometheus protocol.
+4. Which assertion in the requirements and constraints is a scientific mistake, if any ? This question won't give you any point.
