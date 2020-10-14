@@ -33,7 +33,7 @@ You should send us the link to a public `git` repository hosting your code.
 ### Documentation
 
 Aside the "install & run" documentation, we'd like to know what drive your implementation and architecture decisions. Please tell us why you choose such language or pattern, how your solution compares to others, etc.
-Please also answers the following problems:
+Please also answer the following problems:
 
 1. How would you modify your project to handle horizontal scaling in such way we do not keep multiple copies of satellites data ?
 2. Imagine we do not track a dozen of satellites, but a million ? How would you change your project to handle it ?
